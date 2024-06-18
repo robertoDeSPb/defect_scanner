@@ -1,0 +1,55 @@
+# Временные файлы Visual Studio
+.vscode/
+.vs/
+*.vscode
+
+# Временные файлы сборки
+[Bb]in/
+[Oo]bj/
+
+# Файлы пользователя Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Автосгенерированные файлы
+*.g.*
+*.i.obj
+*.pdb
+*.ipch
+*.obj
+*.dll
+*.log
+*.vspscc
+*.vssscc
+
+# Пакеты NuGet
+*.nupkg
+*.snupkg
+
+# Папка для локальных пакетов
+packages/
+
+# Папка для пакетов
+*.localhistory
+
+# Файлы рабочего пространства Visual Studio Code
+.vscode/
+.history/
+
+# Файлы настройки среды
+*.env
+
+# Конфигурационные файлы
+config.json
+
+# Другие временные файлы и папки
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Файлы для отслеживания больших файлов
+*.psd
+*.tiff
